@@ -22,7 +22,7 @@ It is a quick revision and study tool for both backbenchers and toppers!
 Possible stack: HTML, CSS, JS (Frontend), Python or Node.js (Backend), OpenAI API (for AI features), Firebase/MongoDB (Storage)
 
 ## ▶️ Video Explanation
-"C:\Users\anura\OneDrive\Documents\colleges\COLLEGE\KRM\Mini Project-1\Video_Presentation_Exampal.mp4"
+
 
 ## 🚀 How to Run/Use the Project
 Right now: Just an idea stage  
