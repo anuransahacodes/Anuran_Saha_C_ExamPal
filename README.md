@@ -19,7 +19,7 @@ Haven’t studied anything yet and tomorrow’s the exam? Here’s our app to he
 
 ## 🛠️ Technologies Used
 *(to be updated once actual coding starts)*  
-Suggested stack: HTML, CSS, JS (Frontend), Python or Node.js (Backend), OpenAI API (for AI features), Firebase/MongoDB (Storage)
+Possible stack: HTML, CSS, JS (Frontend), Python or Node.js (Backend), OpenAI API (for AI features), Firebase/MongoDB (Storage)
 
 ## ▶️ Video Explanation
 [Click here to watch the video](PUT_YOUR_VIDEO_LINK_HERE)  
