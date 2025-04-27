@@ -22,7 +22,7 @@ It is a quick revision and study tool for both backbenchers and toppers!
 Possible stack: HTML, CSS, JS (Frontend), Python or Node.js (Backend), OpenAI API (for AI features), Firebase/MongoDB (Storage)
 
 ## ▶️ Video Explanation
-
+https://github.com/anuransahacodes/Anuran_Saha_C_ExamPal/blob/main/Video_Presentation_Exampal.mp4
 
 ## 🚀 How to Run/Use the Project
 Right now: Just an idea stage  
